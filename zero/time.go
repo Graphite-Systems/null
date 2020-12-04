@@ -3,7 +3,7 @@ package zero
 import (
 	"database/sql"
 	"database/sql/driver"
-	"encoding/json"
+	json "github.com/json-iterator/go"
 	"fmt"
 	"time"
 )
